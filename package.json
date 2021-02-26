@@ -1,21 +1,21 @@
 {
-  "name": "natours",
+  "name": "trillo",
   "version": "1.0.0",
-  "description": "Landing page with natours",
+  "description": "trillo app",
   "main": "index.js",
   "scripts": {
     "compile:sass": "node-sass sass/main.scss css/style.css -w"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/redneckguy/natours.git"
+    "url": "git+https://github.com/redneckguy/trillo.git"
   },
   "author": "Dimitry",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/redneckguy/natours/issues"
+    "url": "https://github.com/redneckguy/trillo/issues"
   },
-  "homepage": "https://github.com/redneckguy/natours#readme",
+  "homepage": "https://github.com/redneckguy/trillo#readme",
   "devDependencies": {
     "node-sass": "^5.0.0"
   }
